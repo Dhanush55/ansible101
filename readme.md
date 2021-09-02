@@ -1,3 +1,5 @@
+Add sudo to a user
+sudo usermod -a -G sudo hduser
 # LINUX BASIC COMMANDS
 Basics
 To find OS details <h2> ``` cat /etc/os-release ```</h2> <br />
